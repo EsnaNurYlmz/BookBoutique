@@ -10,6 +10,7 @@ import Foundation
 class Book:Codable {
     
     var bookName : String?
+    var bookName2 : String?
     var bookPrice : String?
     var bookImage : String?
     var authorName : String?
